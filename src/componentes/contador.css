@@ -1,0 +1,11 @@
+.dot {
+    width: 40vh;
+    height: 40vh;
+    line-height: 40vh;
+    border-radius: 50%;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    background: #F18A8A;
+    align-self: center;
+  }
